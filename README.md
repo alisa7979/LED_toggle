@@ -4,8 +4,6 @@
 
 This project demonstrates **LED control** on an embedded system using **ARM Assembly** and **C**. The system cycles an LED across 8 positions (LD0 to LD7), with the **delay speed controlled by hardware switches (SW0–SW7)**.
 
-Developed for the *Computer Systems Design* course at Korea University.
-
 ---
 
 ## 📂 Files
