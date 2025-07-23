@@ -1,10 +1,3 @@
-// ------------------------------------------
-//  Author: Prof. Taeweon Suh
-//          Computer Science & Engineering
-//          College of Informatics, Korea Univ.
-//  Date:   March 29, 2020
-// ------------------------------------------
-
 #define csd_LED_ADDR 0x41200000
 
 .extern csd_main
